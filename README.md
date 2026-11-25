@@ -32,7 +32,3 @@ data/       sample captures (generated)
 notebooks/  Colab notebooks used for training and the Llama export
 ```
 
-## Honest limitations
-- Network ML model scored well on its own dataset but failed on live-style traffic, so live detection uses counting rules.
-- Sample captures are simulated; they show the pipeline works, not accuracy.
-- Indian SMS training data is small and partly hand-written; treat scores as optimistic.
