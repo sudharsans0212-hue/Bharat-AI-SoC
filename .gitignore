@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# too large for GitHub (100 MB limit); keep on Drive / the Pi
+models/*.pte
+models/tokenizer.model
+models/*.safetensors
+models/*.pth
